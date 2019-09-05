@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuZai.Wpf.Toolkit", "ShuZai.Wpf.Toolkit\ShuZai.Wpf.Toolkit.csproj", "{C141DF2C-545B-4779-B478-7CBB9BA70693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuZai.Wpf.Toolkit.Example", "ShuZai.Wpf.Toolkit.Example\ShuZai.Wpf.Toolkit.Example.csproj", "{58A8F65C-9A09-4E27-B4C9-E7B06CB519F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C141DF2C-545B-4779-B478-7CBB9BA70693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C141DF2C-545B-4779-B478-7CBB9BA70693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C141DF2C-545B-4779-B478-7CBB9BA70693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C141DF2C-545B-4779-B478-7CBB9BA70693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A8F65C-9A09-4E27-B4C9-E7B06CB519F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A8F65C-9A09-4E27-B4C9-E7B06CB519F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A8F65C-9A09-4E27-B4C9-E7B06CB519F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A8F65C-9A09-4E27-B4C9-E7B06CB519F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F2D358-54FE-42C6-8FDF-F5D0EF64F54B}
+	EndGlobalSection
+EndGlobal
